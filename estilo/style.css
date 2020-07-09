@@ -1,0 +1,107 @@
+body{
+    font-family:"Open Sans";
+    background-color: #BDBDBD;
+    margin-left: 8%;
+    }
+
+.titulo {
+    width: 150px;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    
+}
+
+.navigation { 
+    margin-top: 5px;
+    list-style: none;
+    display: inline-block;
+    overflow: hidden;
+    border: 2px solid #000000;
+    border-radius: 21px;
+    background-color: #6C6C6C;
+    padding-right: 35px;
+    
+}
+
+.menu > li  {
+    display: inline-block;
+    margin: 5px;  
+}
+
+.menu > li > a{
+    display: block;
+    padding: 18px 20px;
+    color: black;
+    text-decoration: none;
+}
+
+
+#index{
+    border: 2px solid #06AC40;
+    border-radius: 10px;
+}
+#index:hover{
+    background-color: #06AC40;
+    list-style: upper-latin; 
+    transition: all .3s;
+}
+
+#pokedex{
+    border: 2px solid #FF0000;
+    border-radius: 10px;
+}
+#pokedex:hover{
+    background-color: #FF0000;
+    list-style: upper-latin; 
+    transition: all .3s;
+}
+
+#mitologia{
+    border: 2px solid #E9E4E4;
+    border-radius: 10px;
+}
+#mitologia:hover{
+    background-color: #E9E4E4;
+    list-style: upper-latin; 
+    transition: all .3s;
+}
+
+#animacion{
+    border: 2px solid #2985F4;
+    border-radius: 10px;
+}
+#animacion:hover{
+    background-color: #2985F4;
+    list-style: upper-latin; 
+    transition: all .3s;
+}
+
+#games{
+    border: 2px solid #D63FFF;
+    border-radius: 10px;
+}
+#games:hover{
+    background-color: #D63FFF;
+    list-style: upper-latin; 
+    transition: all .3s;
+}
+
+#juega{
+    border: 2px solid #FE9D12;
+    border-radius: 10px;
+}
+#juega:hover{
+    background-color: #FE9D12;
+    list-style: upper-latin; 
+    transition: all .3s;
+}
+
+.pikachu{
+    width: 5%;
+}
+
+
+
+#poster{
+    width: 50%;
+}
